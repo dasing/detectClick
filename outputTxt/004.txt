@@ -1,0 +1,8 @@
+chair 114, 135
+chair 179, 135
+chair 109, 111
+chair 158, 111
+chair 106, 88
+chair 146, 89
+chair 22, 107
+chair 43, 90
