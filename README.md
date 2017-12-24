@@ -7,3 +7,8 @@
 ```
 
 Result-txt will be created at dstDir, then you can use [visualizeWidget](https://github.com/dasing/visualizeWidget) to view the result image.
+
+```
+  Result-txt format:
+    X_POS, Y_POS
+```
