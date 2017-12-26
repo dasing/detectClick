@@ -19,6 +19,8 @@ function detectClick(srcDir, dstDir)
                 %fprintf(fp, '%s', [ 'chair,' ]);
                 fprintf(fp, '%d, %d\n', [ round(x_pos), round(y_pos) ]);
                 fprintf('writing : %d, %d to file\n', [ round(x_pos), round(y_pos) ]);
+                hold on
+                plot(x_pos, y_pos, 'r*');
             catch
                 break
             end

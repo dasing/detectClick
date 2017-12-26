@@ -1,6 +1,0 @@
-chair 105, 258
-chair 143, 227
-chair 166, 197
-chair 9, 209
-chair 434, 211
-chair 570, 231
